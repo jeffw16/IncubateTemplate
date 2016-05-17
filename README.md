@@ -2,4 +2,8 @@ Manual Fork
 -----------
 #### 1. Create a repository named `{city_initial}` (such as `dfw`) in `IncubateX` organization
 #### 2. Manually fork
-Download [this shell script](template.sh) and execute it by `sh template.sh {city_initial}` (only for Linux and Unix)
+For Linux and Unix
+```console
+curl -fsSL https://git.io/sh-remote | bash
+shr https://raw.githubusercontent.com/IncubateX/IncubateTemplate/master/template.sh {city_initial}`
+```
