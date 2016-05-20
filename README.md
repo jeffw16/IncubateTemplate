@@ -5,5 +5,5 @@ Manual Fork
 For Linux and Unix
 ```console
 curl -fsSL https://git.io/sh-remote | bash
-shr https://raw.githubusercontent.com/IncubateX/IncubateTemplate/master/template.sh {city_initial}`
+shr https://raw.githubusercontent.com/IncubateX/IncubateTemplate/master/template.sh {city_initial}
 ```
